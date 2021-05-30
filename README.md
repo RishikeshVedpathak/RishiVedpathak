@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Vedpathak</h1>
 <h3 align="center">A passionate frontend developer. I focus my attention and efforts on front-end development and to give people a great browsing experience. I enjoy facing new challenges and learning new things to expand and develop my skill set.</h3>
 
+- :earth_asia: Know about my experiences [https://rishi-vedpathak.netlify.app/](https://rishi-vedpathak.netlify.app/)
+
 - 📝 I regularly write articles on [https://dev.to/rishikeshvedpathak](https://dev.to/rishikeshvedpathak)
 
 - 💬 Ask me about **JavaScript, React, CSS, Web development**
 
 - 📫 How to reach me **rsvedpathak@gmail.com**
-
-- 📄 Know about my experiences [https://rishi-vedpathak.netlify.app/](https://rishi-vedpathak.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
